@@ -1,2 +1,2 @@
 # Lab-Tables
-![table_image.JPG](picture or gif url)
+![image](https://github.com/Shek1997/lab-10/blob/main/images/puppy.gif)
