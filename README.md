@@ -1,2 +1,2 @@
 # Lab-Tables
-![image](picture or gif url)
+![table_image.JPG](picture or gif url)
